@@ -1,0 +1,79 @@
+<meta name=  para saber como te buscan mas su descripcion
+
+<article> Es independiente
+<seption> 
+<nav> para la navegacion
+<aside> contenido extra relacionada
+
+
+elementos de linea: deben estar dentro de elementos de bloque
+
+<span>contenedor de linea
+<em> enfasis que es muy importante
+<strong> texto mas importante
+<small> letra pequeña
+<wbr> corta un palabra larga
+estilos en etiquetas
+
+b ,  u , i   negrita,subrayado,cursiva
+
+<cite> como blockquote pero en linea
+
+<sub>  y <sup>  subindice y superindice
+
+<time> para los chats
+
+
+
+
+
+elementos de bloque:
+
+<hr> lineas de cambio en la estructura
+<pre> respeta los saltos de linea
+<code> para indicar que es codigo
+
+<blockquote> bloque de cita de alguien famoso o representate
+
+<div> es una caja vacia
+
+
+Arquitectura cliente-servidor:
+
+Cliente: el dispositivo que solicita la pagina web
+
+Servidor: es el hardware y software que almacena y entrega la pagina web y sus componentes.
+
+<---Enlaces--->
+
+
+<a href="link"
+
+atributo target"_blank"  para que se habra en una nueva pestaña
+
+rel="nofollow" para evitar spam
+rel="noreference" no indica el origen del link
+rel="noopener" evita la incrustacion de codigo malicioso al abrir
+        enlaces en nuevas pestañas
+
+download funciona solo en servidor
+
+RUTAS ABSOLUTAS:
+
+-Tienen protocolo (https) son unicas
+
+-rutas externas del proyecto
+
+RUTAS RELATIVAS:
+
+-Se usan para rutas internas
+
+-No usan protocolo 
+
+-Se navega hacia el destino con nombre y extension
+
+RUTA RELATIVAS A LA RAIZ:
+
+
+-Se construyen a partir de la carpeta raiz del proyecto
+-Empiezan con /

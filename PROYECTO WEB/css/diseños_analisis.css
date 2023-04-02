@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
+html{
+  padding: 2%;
+}
+*{
+  background-color: bisque;
+}
+h2{
+  font-weight: bold;
+  text-decoration: underline;
+  text-align:justify;
+}
+

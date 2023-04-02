@@ -1,0 +1,39 @@
+html{
+    background-color: #A3DDEC;
+}
+
+h1{
+    text-align: center;
+    color:blue;
+    border:30px solid red;
+    padding:10px;
+    background-color: yellow;
+}
+
+nav{
+    background-color: blanchedalmond;
+}
+
+nav a{
+    padding: 20px;
+    text-decoration: none;/*para evitar el subrayado de la etiqueta a*/
+    color:green;
+    display:inline-block;
+    
+}
+#contenedor{
+    width:95%;
+    margin:30px auto; 
+}
+header img{
+
+    width: 100%;
+    height: 300px;
+    vertical-align: bottom;
+}
+
+
+section{
+
+    background-color: yellow;
+}
